@@ -3,7 +3,7 @@ Global Game Jam entry
 
 CREDITS
 
-Programming Nerds
+-Programming Nerds-
 
 Süleyman Yasir Kula
 
@@ -11,7 +11,7 @@ Yarkın Deniz Çetin
 
 Fırat Özbay
 
-Art Snobs
+-Art Snobs-
 
 Doruk Hasdoğan
 
@@ -19,6 +19,6 @@ Ece Seyrek
 
 Müberra Kablan
 
-Composing Executive Officer
+-Composing Executive Officer-
 
 Barış Yaman
